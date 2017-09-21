@@ -1,0 +1,35 @@
+html {
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/dark-triangles.png");
+}
+
+#main-container {
+    max-width: 700px;
+    width: 100%;
+}
+
+#header {
+    text-align: center;
+    color: blueviolet;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+h2 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 600;
+    color: black;
+}
+
+h3 {
+    margin-bottom: 30px;
+}
+
+.btn {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 1.5em;
+}
